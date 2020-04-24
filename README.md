@@ -10,7 +10,7 @@ For details about R-CNN please refer to the paper [Faster R-CNN: Towards Real-Ti
 
 2. Python packages you might not have: `cython`, `python-opencv`, `easydict`
 
-tips: c为c语言开发的叫做python，在于别的语言开发的python对比时为避免歧义通常称为CPython,通常windows下常用的皆为cpython
+tips: 为c语言开发的叫做python，在于别的语言开发的python对比时为避免歧义通常称为CPython,通常windows下常用的皆为cpython
 
 ### Requirements: hardware
 
